@@ -1,0 +1,30 @@
+"Esperar es un estado mental.
+Básicamente, significa que quieres el futuro; no quieres el presente". - Eckhart Tolle
+
+clase 18
+- templates
+- bucles y condicionales en plantilas
+- loader y base di
+- Models
+- crear app
+- installedd app, check app, makemigrations, migrate, db sqlite
+
+clase 19
+-  
+
+clase 20
+- herencia html
+- navegar entre templates
+- panel admin
+
+clase 21
+- formularios
+- creacion de fomr: insertar datos
+- formulario de busqueda
+
+Falta
+* redondear los html
+* terminar las vistas
+* hacer los formularios
+*subir a git
+*hacer el readme
