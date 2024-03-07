@@ -14,7 +14,7 @@ creación de usuario, y la parte de para registrar los ingresos por un lado y lo
 También hay un boton para realizar la busqueda de un usuario registrado.
 
 ## Cuestiones técnicas
-pasos para ejecutar la app
+pasos para ejecutar la app realizado con el framework Django.
 En el editor de código Visual Studio Code situado en el directorio "Finance" en la consola de comandos:
 1. En primer lugar verificar que la app no tenga errores al descargar con el comando "python check AppFinance"
 2. Cargar los models con el comando "python manage.py makemigrations"
